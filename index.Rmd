@@ -1,27 +1,17 @@
 ---
-title: "indexf"
+title: "Assignment 3 Landing Page"
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## R Markdown
+This markdown file is used to serve as the intro page for the collaborative website built by Cormac Mahoney and Jason Zhao.
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+Cormac Github: https://github.com/CormacM1
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+Jason Github: https://github.com/Jason-Jianqiang-Zhao
 
-```{r cars}
-summary(cars)
+```{r, echo=FALSE, out.width="50%", fig.cap="Here's a cat for the website!"}
+knitr::include_graphics("https://i.natgeofe.com/n/548467d8-c5f1-4551-9f58-6817a8d2c45e/NationalGeographic_2572187_square.jpg")
 ```
-
-## Including Plots
-
-You can also embed plots, for example:
-
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.

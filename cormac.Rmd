@@ -6,6 +6,13 @@ title: "Cormac"
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-This is the Cormac Mahoney Assignment 3 Markdown File.
+This is the Cormac Mahoney Assignment 3 Markdown File, with the other file made by Jason.
 
-I like dogs, and music, and jogging. Very amazing test file for Jason
+## Cormac Information
+
+* Current Master's student, graduated undergrad at Cornell too!
+
+* Has one dog and one cat.
+
+* Originally from New Hampshire!
+
